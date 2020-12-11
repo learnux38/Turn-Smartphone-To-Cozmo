@@ -5,3 +5,5 @@ Banana Pi M2 Zero
 pyboard
 Node Mcu Esp8266
 Digispark Attiny85
+Easy Microcontroller programing with smartphone:
+https://gonative.io/share/dbakkk
